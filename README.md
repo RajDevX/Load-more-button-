@@ -20,7 +20,7 @@ To use this project locally, follow these steps:
    git clone https://github.com/RajDevX/Load-more-button-.git '''
 2.Navigate into the project directory:
 
-'''bash
+```bash
 Copy code
 cd Load-more-button-'''
 
