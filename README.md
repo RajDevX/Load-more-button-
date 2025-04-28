@@ -17,4 +17,11 @@ To use this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/RajDevX/Load-more-button-.git
+   git clone https://github.com/RajDevX/Load-more-button-.git '''
+2.Navigate into the project directory:
+
+'''bash
+Copy code
+cd Load-more-button-'''
+
+3.Open index.html in your browser to see the "Load More" button in action.
