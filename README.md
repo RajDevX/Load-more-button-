@@ -22,6 +22,4 @@ To use this project locally, follow these steps:
 
 ```bash
 Copy code
-cd Load-more-button-'''
-
-3.Open index.html in your browser to see the "Load More" button in action.
+cd Load-more-button- '''
